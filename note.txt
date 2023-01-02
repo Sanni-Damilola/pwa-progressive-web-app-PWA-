@@ -1,0 +1,16 @@
+
+
+
+
+Change stream________________
+A change stream is a feature provided by certain databases, such as MongoDB, that allows applications to monitor changes happening in a database in real-time. It provides a way to track and react to modifications, insertions, and deletions of data within a collection.
+
+Change streams work by continuously polling the database for any changes and returning the updated information to the application. This enables applications to react promptly to data changes and perform actions based on those changes, such as updating user interfaces, triggering notifications, or processing data asynchronously.
+
+
+
+Work BOX_________________
+A work box, in the context of coding, refers to a code repository or workspace where developers store and manage their project files and related resources. It serves as a centralized location for organizing and structuring code, facilitating collaboration, version control, and efficient development. It typically includes code files, a defined folder structure, dependency management, build and deployment scripts, and supports collaboration through version control systems. The work box provides a structured environment for coding projects, enabling effective project management and development processes.
+
+Light House____________
+Lighthouse is an open-source tool developed by Google that assesses the quality and performance of web pages or web applications.
