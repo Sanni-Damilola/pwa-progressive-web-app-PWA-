@@ -24,7 +24,7 @@ const PushNotification = () => {
         }
       });
     }
-  } // allow notification access
+  } 
 
   return (
     <div
