@@ -1,7 +1,7 @@
 import { Link, createBrowserRouter } from "react-router-dom";
-import { PushNotification, Pusher } from "../../pwa";
+import { PushNotification, Pusher, PwaText } from "../../pwa";
 
-const Route = createBrowserRouter([
+export const AllRoute = createBrowserRouter([
   {
     path: "/",
     element: (
@@ -55,6 +55,8 @@ const Route = createBrowserRouter([
     path: "/p",
     element: <Pusher />,
   },
+  {
+    path: "/pwa",
+    element: <PwaText />,
+  },
 ]);
-
-export default Route;

@@ -4,12 +4,12 @@ import "./index.css";
 // import App from './App';
 import reportWebVitals from "./reportWebVitals";
 import { RouterProvider } from "react-router-dom";
-import { Route } from "./pwa";
+import { AllRoute } from "./pwa/routes/AllRoute";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <RouterProvider router={Route}></RouterProvider>
+    <RouterProvider router={AllRoute}></RouterProvider>
   </React.StrictMode>
 );
 
