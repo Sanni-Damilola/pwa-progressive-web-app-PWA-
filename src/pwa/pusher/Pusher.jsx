@@ -12,7 +12,7 @@ const Pusher = () => {
         alignItems: "center",
       }}
     >
-      Pusher
+      <p>Pusher</p>
       <Link
         style={{ position: "absolute", top: "50px", right: "50px" }}
         to={-1}
