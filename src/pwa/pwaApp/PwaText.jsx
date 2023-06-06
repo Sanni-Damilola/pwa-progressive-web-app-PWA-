@@ -7,3 +7,5 @@ const PwaText = () => {
 }
 
 export default PwaText
+
+// pwa
