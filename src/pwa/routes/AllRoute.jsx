@@ -60,3 +60,6 @@ export const AllRoute = createBrowserRouter([
     element: <PwaText />,
   },
 ]);
+
+
+// all route
